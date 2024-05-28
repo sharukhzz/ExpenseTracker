@@ -1,0 +1,14 @@
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\bin\Debug\Evaluation2.exe.config
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\bin\Debug\Evaluation2.exe
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\bin\Debug\Evaluation2.pdb
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\obj\Debug\Evaluation2.csprojAssemblyReference.cache
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\obj\Debug\Evaluation2.Form1.resources
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\obj\Debug\Evaluation2.Properties.Resources.resources
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\obj\Debug\Evaluation2.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\obj\Debug\Evaluation2.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\obj\Debug\Evaluation2.exe
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\obj\Debug\Evaluation2.pdb
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\obj\Debug\Evaluation2.Pie.resources
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\bin\Debug\MySql.Data.dll
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\obj\Debug\Evaluation2.csproj.CopyComplete
+C:\Users\Lucid\source\repos\Evaluation2\Evaluation2\obj\Debug\Evaluation2.Add.resources

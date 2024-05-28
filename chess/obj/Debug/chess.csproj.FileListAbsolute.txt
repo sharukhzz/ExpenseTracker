@@ -1,0 +1,10 @@
+C:\Users\Lucid\source\repos\Evaluation2\chess\bin\Debug\chess.exe.config
+C:\Users\Lucid\source\repos\Evaluation2\chess\bin\Debug\chess.exe
+C:\Users\Lucid\source\repos\Evaluation2\chess\bin\Debug\chess.pdb
+C:\Users\Lucid\source\repos\Evaluation2\chess\obj\Debug\chess.csprojAssemblyReference.cache
+C:\Users\Lucid\source\repos\Evaluation2\chess\obj\Debug\chess.Form1.resources
+C:\Users\Lucid\source\repos\Evaluation2\chess\obj\Debug\chess.Properties.Resources.resources
+C:\Users\Lucid\source\repos\Evaluation2\chess\obj\Debug\chess.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\Evaluation2\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\Evaluation2\chess\obj\Debug\chess.exe
+C:\Users\Lucid\source\repos\Evaluation2\chess\obj\Debug\chess.pdb
